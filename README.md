@@ -6,7 +6,6 @@ Prof. Dr. Eduardo Pena
 ## Integrantes
 
 - Lucas dos Santos Vaz – RA 2020955
-- _(demais integrantes)_
 
 ## Problema
 
