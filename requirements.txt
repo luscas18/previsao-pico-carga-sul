@@ -1,0 +1,14 @@
+pandas
+pyarrow
+duckdb
+numpy
+scipy
+scikit-learn
+xgboost
+lightgbm
+tabpfn
+holidays
+requests
+matplotlib
+seaborn
+jupyter
